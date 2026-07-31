@@ -99,7 +99,7 @@ Developed an interactive **Power BI dashboard** using the Global Superstore data
 **Tech Stack:** Power BI • SQL • Python • DAX
 
 🔗 **Repository:**  
-https://github.com/KrushnaSonawane91/Global-Superstore-Sales-Analysis
+https://github.com/KrushnaSonawane91/SuperStore_Data_Analysis
 
 ---
 
