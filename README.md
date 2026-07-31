@@ -117,6 +117,9 @@ A desktop-based Library Management System developed using **Python** and **SQL**
 
 **Tech Stack:** Python • SQL
 
+🔗 **Repository:**  
+https://github.com/KrushnaSonawane91/Library-Management-System
+
 ---
 
 # 🌱 Currently Learning
