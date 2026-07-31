@@ -34,13 +34,13 @@ Data Analyst | Power BI Developer | Python Developer
 
 # 🚀 Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql"/>
 </p>
 
-### Data Analytics
+### 📊 Data Analytics
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres"/>
@@ -50,13 +50,13 @@ Data Analyst | Power BI Developer | Python Developer
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-### Libraries
+### 📚 Libraries
 
 - Pandas
 - NumPy
 - Matplotlib
 
-### Tools
+### 🛠️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
@@ -68,80 +68,54 @@ Data Analyst | Power BI Developer | Python Developer
 
 ## 📊 HR Analytics Dashboard
 
-Interactive HR Analytics Dashboard built using **Power BI, SQL, Python, DAX and Power Query**.
+Interactive HR Analytics Dashboard built using **Power BI, SQL, Python, DAX, and Power Query** to analyze employee attrition and workforce insights.
 
-**Highlights**
-- 3-page interactive dashboard
-- Employee Attrition Analysis
-- KPI Cards
-- DAX Measures
-- Power Query Transformations
+### Highlights
 
-🔗 Repository:
+- 📈 Designed a professional 3-page interactive Power BI dashboard
+- 📊 Created KPI cards for workforce analytics
+- 🧮 Developed custom DAX measures and calculated columns
+- 🧹 Performed data cleaning using Python and Power Query
+- 🗄️ Used SQL for data exploration and KPI validation
+
+🔗 **Repository:**  
 https://github.com/KrushnaSonawane91/HR-Analytics-Dashboard
 
 ---
 
 ## 📊 Global Superstore Sales Dashboard
 
-Power BI dashboard for analyzing sales, profit, customers and regional performance.
+Developed an interactive **Power BI dashboard** using the Global Superstore dataset to analyze business performance and support data-driven decision-making.
 
-🔗 Repository:
-https://github.com/KrushnaSonawane91
+### Highlights
+
+- 📈 Sales, Profit, and Order Performance Analysis
+- 🌍 Regional and State-wise Performance Insights
+- 👥 Customer Segment & Product Category Analysis
+- 🚚 Shipping Mode and Delivery Performance
+- 📊 Interactive KPI Cards, Charts, and Filters
+- 🧹 Data Cleaning with Python and SQL
+
+**Tech Stack:** Power BI • SQL • Python • DAX
+
+🔗 **Repository:**  
+https://github.com/KrushnaSonawane91/Global-Superstore-Sales-Analysis
 
 ---
 
 ## 📚 Library Management System
 
-Python & SQL based CRUD application for managing library records.
+A desktop-based Library Management System developed using **Python** and **SQL** to simplify library operations and record management.
 
----
+### Highlights
 
-## 🚗 Car Rental Management System
+- 📖 Add, Update, Delete, and Search Books
+- 👨‍🎓 Student Record Management
+- 🔄 Book Issue and Return Management
+- 💾 SQL Database Integration
+- 🖥️ User-friendly interface with CRUD operations
 
-Responsive web application built using HTML, CSS and JavaScript.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KrushnaSonawane91&show_icons=true&theme=tokyonight"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrushnaSonawane91&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=KrushnaSonawane91&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KrushnaSonawane91&theme=tokyonight&margin-w=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrushnaSonawane91&theme=tokyo-night"/>
-
-</p>
+**Tech Stack:** Python • SQL
 
 ---
 
