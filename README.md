@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Krushna Sonawane</h1>
 
 <h3 align="center">
-Data Analyst | Full Stack Developer | Python Developer
+Data Analyst | Python Developer | Web Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Data+Analyst;Full+Stack+Developer;Python+Developer;Building+Data-Driven+Applications;Turning+Data+into+Insights" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Data+Analyst;Python+Developer;Web+Developer;Building+Data-Driven+Applications;Turning+Data+into+Insights" />
 </p>
 
 <p align="center">
@@ -18,21 +18,23 @@ Data Analyst | Full Stack Developer | Python Developer
 
 🎓 Computer Engineering Graduate
 
-📊 Interested in **Data Analytics, Business Intelligence & Full Stack Development**
+📊 Interested in **Data Analytics, Business Intelligence and Data-Driven Applications**
 
-🐍 Building applications and data solutions using **Python, SQL and modern web technologies**
+🐍 Experienced in **Python, SQL, Pandas and NumPy** for data analysis and preprocessing
 
-📈 Creating interactive dashboards and business insights using **Power BI, DAX and Power Query**
-
-🌐 Developing web applications using **Flask, Spring Boot, React, HTML, CSS and JavaScript**
+📈 Building interactive dashboards and business insights using **Power BI, DAX and Power Query**
 
 🗄️ Working with relational databases including **PostgreSQL and MySQL**
 
-🤖 Building AI-powered applications using **Google Gemini API**
+🌐 Building web applications using **Python, Flask, HTML, CSS and JavaScript**
 
-🧹 Experienced in data cleaning, exploratory data analysis, SQL querying and dashboard development
+🤖 Building AI-powered applications using the **Google Gemini API**
 
-🎯 Looking for opportunities as a **Data Analyst, Full Stack Developer or Python Developer**
+🧹 Interested in data cleaning, exploratory data analysis, visualization and business insights
+
+🔧 Familiar with Git and GitHub for version control and project management
+
+🎯 Looking for opportunities as a **Data Analyst, Python Developer or Web Developer**
 
 ---
 
@@ -41,10 +43,10 @@ Data Analyst | Full Stack Developer | Python Developer
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript"/>
 </p>
 
-### 📊 Data Analytics & BI
+### 📊 Data Analytics & Business Intelligence
 
 <p>
 <img src="https://skillicons.dev/icons?i=pandas,numpy"/>
@@ -55,15 +57,14 @@ Data Analyst | Full Stack Developer | Python Developer
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
 
-### 🌐 Full Stack Development
+### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,spring,react,nodejs"/>
+<img src="https://skillicons.dev/icons?i=flask"/>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases
@@ -91,21 +92,22 @@ Data Analyst | Full Stack Developer | Python Developer
 
 ## 🤖 AI Career Copilot
 
-AI-powered resume analysis platform that evaluates a resume based on the user's target career role and generates personalized career recommendations.
+AI-powered resume analysis web application that evaluates a resume based on the user's target career role and provides personalized career recommendations.
 
 ### Highlights
 
-- 📄 Resume upload and text-based resume analysis
-- 🎯 Target-role specific skill evaluation
-- 🧠 Identifies relevant and missing skills
+- 📄 Resume upload and resume text analysis
+- 🎯 Target-role specific resume evaluation
+- 🧠 Identifies relevant skills and missing skills
 - 🗺️ Generates personalized learning roadmaps
 - 💬 Generates role-specific interview questions
 - 🔐 User authentication with Login and Signup
 - 📚 Stores previous analysis reports in PostgreSQL
 - 🤖 Integrated Google Gemini API for AI-powered analysis
-- 🌐 Built as a Flask web application
+- 🌐 Built using Flask with HTML, CSS and Jinja2
+- 🔒 Environment variables used to protect API credentials
 
-**Tech Stack:** Python • Flask • PostgreSQL • SQLAlchemy • Google Gemini • HTML • CSS • Jinja2
+**Tech Stack:** Python • Flask • PostgreSQL • SQLAlchemy • Google Gemini • HTML • CSS • JavaScript • Jinja2
 
 🔗 **Repository:**  
 https://github.com/KrushnaSonawane91/AI-Career-Copilot
@@ -120,11 +122,12 @@ Interactive HR Analytics Dashboard built using **Power BI, SQL, Python, DAX and 
 
 - 📈 Employee attrition analysis
 - 📊 KPI cards and interactive visualizations
-- 🧮 Custom DAX measures
+- 🧮 Custom DAX measures and calculated columns
 - 🧹 Data cleaning and preprocessing using Python
 - 🗄️ SQL-based data analysis
 - 👥 Department, age, income and overtime analysis
 - 📌 Business-focused HR insights
+- 📊 Interactive Power BI dashboard
 
 **Tech Stack:** Power BI • Python • SQL • DAX • Power Query
 
@@ -147,28 +150,12 @@ Interactive business intelligence project analyzing sales, profit, customers, pr
 - 📊 Interactive Power BI dashboard
 - 🧹 Data cleaning and preprocessing
 - 🗄️ SQL-based analysis
+- 📈 Business performance insights
 
 **Tech Stack:** Power BI • SQL • Python • DAX • Power Query
 
 🔗 **Repository:**  
 https://github.com/KrushnaSonawane91/Global-Superstore-Sales-Analysis
-
----
-
-## 💰 Expense Tracker
-
-Full-stack expense management application developed to track and manage personal expenses.
-
-### Highlights
-
-- 💵 Expense tracking and management
-- ➕ Add and manage expense records
-- 🖥️ Interactive frontend
-- 🔗 Backend REST API
-- 🗄️ Database integration
-- 🔄 Frontend-backend communication
-
-**Tech Stack:** React • Java • Spring Boot • MySQL
 
 ---
 
@@ -183,6 +170,7 @@ Library management application developed using **Python and SQL** to manage book
 - 🔄 Book issue and return management
 - 💾 SQL database integration
 - 🖥️ CRUD-based application
+- 🔍 Search and record management functionality
 
 **Tech Stack:** Python • SQL
 
@@ -191,19 +179,33 @@ https://github.com/KrushnaSonawane91/Library-Management-System
 
 ---
 
-# 📊 What I Work With
+# 📊 Data Analytics Skills
 
-| Data Analytics | Full Stack Development |
+| Category | Skills |
 |---|---|
-| Python | Python / Flask |
-| SQL | Java / Spring Boot |
-| Pandas & NumPy | React |
-| Power BI | HTML / CSS |
-| DAX | JavaScript |
-| Power Query | REST APIs |
-| Data Cleaning | MySQL / PostgreSQL |
-| EDA | SQLAlchemy |
-| Data Visualization | Git / GitHub |
+| Programming | Python |
+| Data Analysis | Pandas • NumPy |
+| Database | SQL • PostgreSQL • MySQL |
+| Visualization | Power BI • Matplotlib |
+| BI & Reporting | DAX • Power Query • Power BI |
+| Data Preparation | Data Cleaning • Data Preprocessing |
+| Analysis | Exploratory Data Analysis (EDA) |
+| Spreadsheet | Microsoft Excel |
+| Version Control | Git • GitHub |
+
+---
+
+# 🌐 Web Development Skills
+
+| Category | Technologies |
+|---|---|
+| Backend | Python • Flask |
+| Frontend | HTML • CSS • JavaScript |
+| Templates | Jinja2 |
+| Database Integration | PostgreSQL • MySQL |
+| ORM | SQLAlchemy |
+| Application Development | Flask Web Applications |
+| Version Control | Git • GitHub |
 
 ---
 
@@ -213,8 +215,8 @@ https://github.com/KrushnaSonawane91/Library-Management-System
 - Statistics for Data Analytics
 - Power BI Service
 - Advanced Python
-- REST API Development
-- Full Stack Application Development
+- Data Visualization
+- Web Application Development
 - Machine Learning fundamentals
 
 ---
@@ -225,9 +227,9 @@ I'm currently interested in opportunities involving:
 
 📊 **Data Analyst**
 
-🌐 **Full Stack Developer**
-
 🐍 **Python Developer**
+
+🌐 **Web Developer**
 
 📈 **Power BI / BI Developer**
 
@@ -251,7 +253,7 @@ I'm currently interested in opportunities involving:
 
 # 💬 Quote
 
-> **"Building applications, analyzing data, and turning ideas into practical solutions."**
+> **"Building data-driven applications and turning data into meaningful insights."**
 
 ---
 
